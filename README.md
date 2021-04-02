@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/oppongjr/oppongjr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oppongjr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oppongjr&hide=html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
