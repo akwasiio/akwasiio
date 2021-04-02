@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=oppongjr)](https://github.com/anuraghazra/github-readme-stats)
+[![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=oppongjr&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
